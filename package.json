@@ -33,7 +33,7 @@
   },
   "name": "poseidon-goldilocks",
   "author": "Open Asset Standards",
-  "description": "Full Suite of Poseidon Goldilocks Hash Functions",
+  "description": "A full suite of poseidon goldilocks hash functions compatible with plonky2.",
   "module": "dist/poseidon-goldilocks.esm.js",
   "size-limit": [
     {
