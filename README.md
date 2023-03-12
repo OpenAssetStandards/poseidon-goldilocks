@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/OpenAssetStandards/poseidon-goldilocks">
-  <img width="256" height="256" src="docs/images/goldilocks.jpg?raw=true">
+  <img width="256" height="256" src="https://github.com/OpenAssetStandards/poseidon-goldilocks/raw/main/docs/images/goldilocks.jpg?raw=true">
   </a>
 
   <h3 align="center">poseidon-goldilocks</h3>
