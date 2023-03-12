@@ -19,7 +19,7 @@
   <h3 align="center">poseidon-goldilocks</h3>
 
   <p align="center">
-A full suite of Poseidon Goldilocks hash functions that one-to-one compatible with those used in <a href="https://github.com/mir-protocol/plonky2">plonky2</a> SNARKs, along with commonly used functions for creating and verifying merkle proofs compatible with plonky2.
+A full suite of Poseidon Goldilocks hash functions that are one-to-one compatible with those used in <a href="https://github.com/mir-protocol/plonky2">plonky2</a>, along with commonly used functions for creating and verifying merkle proofs compatible with plonky2.
   </p>
 </div>
 
