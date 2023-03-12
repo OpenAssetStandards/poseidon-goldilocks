@@ -34,7 +34,11 @@ import {twoToOne} from 'poseidon-goldilocks';
 const c = twoToOne([1337n, 123456n, 100n, 15n], [1n, 2n, 3n, 4n]);
 ```
 <details><summary>Plonky2 Equivalent</summary>
+
 <p>
+
+
+
 ```rust
 type F = GoldilocksField;
 let a = HashOut { elements: [
@@ -51,7 +55,9 @@ let b = HashOut { elements: [
 ] };
 let c = PoseidonHash::two_to_one(a, b);
 ```
+
 </p>
+
 </details>
 
 ### Sponge Hash with Pad (Hash n elements with padding)
@@ -60,7 +66,11 @@ import {hashPad} from 'poseidon-goldilocks';
 const result = hashPad([1n, 2n, 3n, 1337n, 9999n, 123n]);
 ```
 <details><summary>Plonky2 Equivalent</summary>
+
 <p>
+
+
+
 ```rust
 type F = GoldilocksField;
 let result = PoseidonHash::hash_pad(&[
@@ -72,7 +82,9 @@ let result = PoseidonHash::hash_pad(&[
   F::from_noncanonical_u64(123),
 ]);
 ```
+
 </p>
+
 </details>
 
 
