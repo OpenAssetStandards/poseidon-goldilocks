@@ -4,7 +4,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 
 
@@ -126,5 +125,3 @@ SOFTWARE.
 [stars-url]: https://github.com/OpenAssetStandards/poseidon-goldilocks/stargazers
 [issues-shield]: https://img.shields.io/github/issues/OpenAssetStandards/poseidon-goldilocks.svg?style=for-the-badge
 [issues-url]: https://github.com/OpenAssetStandards/poseidon-goldilocks/issues
-[license-shield]: https://img.shields.io/github/license/OpenAssetStandards/poseidon-goldilocks.svg?style=for-the-badge
-[license-url]: https://github.com/OpenAssetStandards/poseidon-goldilocks/blob/master/LICENSE
