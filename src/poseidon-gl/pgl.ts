@@ -1,5 +1,5 @@
 
-import { F1Field, Scalar } from "oas-ffjavascript";
+import { F1Field, Scalar } from "@zk2/ffjavascript";
 import { C,S,M,P } from "./constants";
 type IHashOut = [bigint,bigint,bigint,bigint];
 
